@@ -497,7 +497,7 @@ footer .soc{
 }
 .cook{
     position:fixed;
-    top: 80%;
+    bottom: 0%;
     background-size: contain;
     background-color:rgb(93, 93, 153);
     display: flex;
@@ -540,6 +540,9 @@ footer .soc{
     font-size: 24px;
     font-family: var(--sans-serif);
     margin: 0 30px 0 30px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
     
 }
